@@ -13,13 +13,13 @@ Pruebas:
 
 [LeetCode]
 
-Input: palabra1 = "horse", palabra2 = "ros"
-Output: 3
-Explicación:
-horse -> rorse (sustituir 'h' con 'r')
-rorse -> rose (borrar 'r')
-rose -> ros (borrar 'e')
-------
+-Input: palabra1 = "horse", palabra2 = "ros"
+-Output: 3
+-Explicación:
+-horse -> rorse (sustituir 'h' con 'r')
+-rorse -> rose (borrar 'r')
+-rose -> ros (borrar 'e')
+
 Input: palabra1 = "intention", palabra2 = "execution"
 Output: 5
 Explicación
@@ -28,7 +28,7 @@ inention -> enention (sustituir 'i' con 'e')
 enention -> exention (sustituir 'n' con 'x')
 exention -> exection (sustituir 'n' con 'c')
 exection -> execution (insertar 'u')
------
+
 [Clase]
 
 Input: palabra1 = "ernandof", palabra2 = "fernando"
