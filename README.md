@@ -10,7 +10,9 @@ Las operaciones permitidas son:
 ![edit](https://user-images.githubusercontent.com/98791779/185814362-d1c892dc-b426-47cd-bd61-9d9a0cdaa937.png)
 
 Pruebas:
+
 [LeetCode]
+
 1) Input: palabra1 = "horse", palabra2 = "ros"
 Output: 3
 Explicación:
@@ -28,6 +30,7 @@ exention -> exection (sustituir 'n' con 'c')
 exection -> execution (insertar 'u')
 
 [Clase]
+
 3) Input: palabra1 = "ernandof", palabra2 = "fernando"
 Output: 2
 Explicación
