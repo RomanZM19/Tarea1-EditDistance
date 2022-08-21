@@ -1,6 +1,6 @@
 # Tarea1-EditDistance
-El programa encuentra la distancia entre 2 dadas cadenas de símbolos, es decir, regresa el mínimo de operaciones requeridas
-para trasnformar la primera palabra en la segunda.
+El programa encuentra la distancia dadas 2 cadenas de símbolos, es decir, regresa el mínimo de operaciones requeridas
+para transformar la primera palabra en la segunda.
 
 Las operaciones permitidas son:
 1) Sustituir
@@ -13,14 +13,14 @@ Pruebas:
 
 [LeetCode]
 
-1) Input: palabra1 = "horse", palabra2 = "ros"
+Input: palabra1 = "horse", palabra2 = "ros"
 Output: 3
 Explicación:
 horse -> rorse (sustituir 'h' con 'r')
 rorse -> rose (borrar 'r')
 rose -> ros (borrar 'e')
 
-2) Input: palabra1 = "intention", palabra2 = "execution"
+Input: palabra1 = "intention", palabra2 = "execution"
 Output: 5
 Explicación
 intention -> inention (borrar 't')
@@ -31,7 +31,7 @@ exection -> execution (insertar 'u')
 
 [Clase]
 
-3) Input: palabra1 = "ernandof", palabra2 = "fernando"
+Input: palabra1 = "ernandof", palabra2 = "fernando"
 Output: 2
 Explicación
 ernandof -> fernando (insertar 'f')
